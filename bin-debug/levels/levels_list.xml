@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<levels>
+	<level file_name = "1.xml" need_load = "true"/>
+	<level file_name = "2.xml" need_load = "true"/>
+	<level file_name = "3.xml" need_load = "true"/>
+</levels>
